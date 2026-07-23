@@ -1,4 +1,4 @@
-# 🎓 Student Attendance Management System
+# 🎓 Student Attendance Management System 
 
 A web-based Student Attendance Management System developed using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. The application enables users to manage student records, mark attendance, calculate attendance percentages, and track overall class attendance using browser Local Storage.
 

@@ -96,17 +96,6 @@ Password: 23456
 - Local Storage Integration
 - Responsive Design
 
----
-
-## 📸 Screenshots
-
-Add screenshots here.
-
-Example:
-
-- Login Page
-- Student Dashboard
-- Attendance Table
 
 ---
 

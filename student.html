@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+
+    <title>Student Management System</title>
+</head>
+
+<body>
+
+    <div class="studentData">
+        <form action="" id="form1">
+
+            <input type="text" placeholder="Name" id="name" required>
+
+            <input type="number" placeholder="Number" id="number" required>
+
+            <input type="text" placeholder="City" id="city" required>
+
+            <input type="number" placeholder="Roll No" id="rollNo" required>
+
+            <input type="submit" class="btn btn-warning" value="Add Student">
+
+        </form>
+    </div>
+
+    <!-- Overall Attendance -->
+    <div class="container mt-4">
+        <h3 id="overallAttendance" class="text-center text-primary">
+            Overall Class Attendance : 0%
+        </h3>
+    </div>
+
+    <table class="table table-bordered text-center mt-3">
+
+        <thead>
+            <tr>
+                <th>#</th>
+                <th>Name</th>
+                <th>Number</th>
+                <th>City</th>
+                <th>Roll No.</th>
+                <th>Present</th>
+                <th>Absent</th>
+                <th>Attendance %</th>
+                <th>Status</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+
+        <tbody id="tbody">
+
+        </tbody>
+
+    </table>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="./student.js"></script>
+
+</body>
+
+</html>

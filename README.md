@@ -98,6 +98,15 @@ Password: 23456
 
 
 ---
+## 📸 Screenshots
+ Login Page
+
+<img width="893" height="406" alt="image" src="https://github.com/user-attachments/assets/4f494e51-b7ca-4151-bf7a-b168a2fc3155" />
+Attendance Table
+<img width="958" height="404" alt="image" src="https://github.com/user-attachments/assets/04787e90-5f49-429f-921f-c53bcb268256" />
+
+
+
 
 ## 🚀 Future Enhancements
 

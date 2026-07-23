@@ -133,10 +133,6 @@ B.Tech Computer Science Engineering
 
 Frontend Developer | JavaScript Developer | Aspiring Full-Stack Developer
 
-GitHub: https://github.com/your-github-username
-
-LinkedIn: https://linkedin.com/in/your-linkedin-profile
-
 ---
 
 ## ⭐ Support
